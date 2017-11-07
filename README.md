@@ -1,24 +1,5 @@
-# README
+# Anicamp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Currently developing an application that would work with multiple domains using database multi-tenancy for Rack (and Rails) by using the <a href="https://github.com/influitive/apartment">apartment</a> gem.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In flux is choosing a proper video hosting provider that would allow private user upload that can be viewed only within the application. 

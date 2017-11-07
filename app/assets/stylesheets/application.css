@@ -25,3 +25,7 @@ body {
   margin-top: 0;
   font-size: 1.7rem;
 }
+
+.card-body {
+  min-height: 250px;
+}
